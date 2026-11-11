@@ -14,8 +14,8 @@ Open to full-time roles and freelance projects. Extensive experience in end-to-e
 * Cross-domain debugging from physical layer signals up to the user interface.
 
 **Contact**
-* **Telegram:** [@твой_ник]
-* **Email:** [твой_email@example.com]
+* **Telegram:** @Maxim_Deynonih
+* **Email:** deynonih@tutamail.com
 
 ---
 
@@ -35,5 +35,5 @@ Open to full-time roles and freelance projects. Extensive experience in end-to-e
 * Сквозная отладка: от сигналов на физическом уровне до пользовательского интерфейса.
 
 **Контакты**
-* **Telegram:** [@твой_ник]
-* **Email:** [твой_email@example.com]
+* **Telegram:** @Maxim_Deynonih
+* **Email:** deynonih@tutamail.com
